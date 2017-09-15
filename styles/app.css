@@ -9,6 +9,15 @@
 
 }
 
+.logo {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 125px;
+    margin: 30px;
+
+}
+
 .jumbotron h1 {
     color: #fff;
 }
